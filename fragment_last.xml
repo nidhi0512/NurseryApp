@@ -1,0 +1,12 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.nidhi.nurseryapp.in.example.nidhi.nurseryapp.ScoreFragment">
+
+    <ImageView
+        android:id="@+id/score"
+        android:src="@drawable/congr"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</FrameLayout>
